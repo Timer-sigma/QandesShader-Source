@@ -1,0 +1,9 @@
+option.REFLECTION_STRENGTH=Reflection strength
+option.REFLECTION_DARKEN=Reflection darkening
+option.SSR_STEPS=SSR quality
+option.ENABLE_SUN_SPECULAR=Sun glints on water
+option.ENABLE_REFRACTION=Water refraction
+option.ENABLE_WATER_WAVES=Water waves
+option.SATURATION=Saturation
+option.VIGNETTE=Vignette
+option.WATER_WAVE_SPEED=Wave speed

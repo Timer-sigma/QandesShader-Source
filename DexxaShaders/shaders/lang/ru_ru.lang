@@ -1,0 +1,9 @@
+option.REFLECTION_STRENGTH=Сила отражений
+option.REFLECTION_DARKEN=Затемнение отражений
+option.SSR_STEPS=Качество SSR
+option.ENABLE_SUN_SPECULAR=Блики солнца на воде
+option.ENABLE_REFRACTION=Преломление в воде
+option.ENABLE_WATER_WAVES=Волны на воде
+option.SATURATION=Насыщенность
+option.VIGNETTE=Виньетка
+option.WATER_WAVE_SPEED=Скорость волн
